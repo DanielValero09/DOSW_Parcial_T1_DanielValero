@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1b7d5b4f-ef1a-4199-8314-d4f874be1415" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-    </list>
+    <list default="true" id="1b7d5b4f-ef1a-4199-8314-d4f874be1415" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,10 +34,9 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "feature/punto#5",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Daniel/Desktop/DOSW/DOSW_Parcial_T1_DanielValero/docs/images"
+    "last_opened_file_path": "C:/Users/Daniel/Desktop/DOSW/DOSW_Parcial_T1_DanielValero"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -48,7 +44,7 @@
       <recent name="C:\Users\Daniel\Desktop\DOSW\DOSW_Parcial_T1_DanielValero\docs\images" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.App">
     <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="src.main.java.edu.dosw.parcial.App" />
       <module name="DOSW_Parcial_T1_DanielValero" />
@@ -79,9 +75,6 @@
       <list>
         <item itemvalue="Application.edu.dosw.parcial.App" />
         <item itemvalue="Application.App" />
-        <item itemvalue="Application.edu.dosw.parcial.App" />
-        <item itemvalue="Application.App" />
-        <item itemvalue="Application.edu.dosw.parcial.App" />
       </list>
     </recent_temporary>
   </component>
