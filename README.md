@@ -64,9 +64,6 @@ Diagrama de contexto:
 ![Diagrama contexto](docs/images/diagramaContexto.png)
 
 
-Diagrama caso de uso
-![Diagrama caso de uso](docs/images/diagramaCasoUso.png)
-
 
 ## PUNTO 2
 5 REQUERIMIENTOS DEL SISTEMA: 3 FUNCIONALES Y 2 NO FUNCIONALES. 1 CON BUILDER Y 1 CON DECORATOR
@@ -84,6 +81,17 @@ Diagrama caso de uso
 **1.** El sistema debe responder en <= 1.5s para el 990% de las peticiones
 
 **2.** Colores de la cafeteria: Azul (#1B3A5C) y Dorado (#C67A00)
+
+
+
+## PUNTO 3
+
+2 REQUERIMIENTOS FUNCIONALES MAS IMPORTANTES
+
+Diagrama caso de uso
+![Diagrama caso de uso](docs/images/diagramaCasoUso.png)
+
+
 
 # DOSW_Parcial_T1_DanielValero
 https://github.com/DanielValero09/DOSW_BITACORA.git
