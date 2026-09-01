@@ -90,7 +90,16 @@ Diagrama de contexto:
 
 Diagrama caso de uso
 ![Diagrama caso de uso](docs/images/diagramaCasoUso.png)
+RF-01 — Armar pedido personalizado (patrón Builder):
+El sistema debe permitir que el usuario (estudiante o docente) arme un pedido seleccionando un producto base, agregando una o más opciones de extras, y eligiendo un tipo de entrega, construyendo el pedido paso a paso mediante el patrón Builder.
 
+RF-02 — Calcular precio final del pedido (patrón Decorator):
+El sistema debe calcular y mostrar en tiempo real el precio final del pedido, sumando dinámicamente el costo de cada extra seleccionado sobre el precio base, usando el patrón Decorator.
+Historias de usuario
+
+RF-01: Como estudiante o docente, quiero armar mi pedido eligiendo un producto base, agregando extras y escogiendo el tipo de entrega paso a paso, para personalizar mi comida sin complicaciones.
+
+RF-02: Como estudiante o docente, quiero ver el precio final de mi pedido actualizado en tiempo real a medida que agrego extras, para saber exactamente cuánto voy a pagar antes de confirmar.
 
 
 # DOSW_Parcial_T1_DanielValero
