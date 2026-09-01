@@ -61,8 +61,11 @@ El proyecto Maven fue configurado con:
 
 ## PUNTO 1
 Diagrama de contexto:
+![Diagrama contexto](docs/images/diagramaContexto.png)
 
 
+Diagrama caso de uso
+![Diagrama caso de uso](docs/images/diagramaCasoUso.png)
 
 
 ## PUNTO 2
@@ -82,5 +85,7 @@ Diagrama de contexto:
 
 **2.** Colores de la cafeteria: Azul (#1B3A5C) y Dorado (#C67A00)
 
+# DOSW_Parcial_T1_DanielValero
+https://github.com/DanielValero09/DOSW_BITACORA.git
 # DOSW_Parcial_T1_DanielValero
 https://github.com/DanielValero09/DOSW_BITACORA.git
