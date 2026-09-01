@@ -65,5 +65,22 @@ Diagrama de contexto:
 
 
 
+## PUNTO 2
+5 REQUERIMIENTOS DEL SISTEMA: 3 FUNCIONALES Y 2 NO FUNCIONALES. 1 CON BUILDER Y 1 CON DECORATOR
+
+-**FUNCIONALES:**
+
+**1.** Un pedido puede contener hasta 5 productos diferentes. (BUILDER)
+
+**2.** Cada producto base puede tener sus propios extras. (DECORATOR)
+
+**3.** El precio minimo de un pedido es de $3.500
+
+-**NO FUNCIONALES:**
+
+**1.** El sistema debe responder en <= 1.5s para el 990% de las peticiones
+
+**2.** Colores de la cafeteria: Azul (#1B3A5C) y Dorado (#C67A00)
+
 # DOSW_Parcial_T1_DanielValero
 https://github.com/DanielValero09/DOSW_BITACORA.git
