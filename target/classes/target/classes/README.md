@@ -55,15 +55,3 @@ El proyecto Maven fue configurado con:
 │   └── requirements/
 ├── .gitignore
 └── README.md
-
-```
-
-
-## PUNTO 1
-Diagrama de contexto:
-
-
-
-
-# DOSW_Parcial_T1_DanielValero
-https://github.com/DanielValero09/DOSW_BITACORA.git
