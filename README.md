@@ -55,3 +55,13 @@ El proyecto Maven fue configurado con:
 │   └── requirements/
 ├── .gitignore
 └── README.md
+
+```
+
+
+## PUNTO 1
+Diagrama de contexto:
+
+
+
+
